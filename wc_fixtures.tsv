@@ -1,0 +1,330 @@
+Sn	Team1	Team2	Pts1	Pts2	Diff	Ground	WC	Date
+4	Scotland	France	20	20	0	Christchurch	1987	5/23/1987
+428	Japan	Canada	12	12	0	Bordeaux	2007	9/25/2007
+526	Japan	Canada	23	23	0	Napier	2011	9/27/2011
+5	Romania	Zimbabwe	21	20	1	Auckland	1987	5/23/1987
+61	Wales	Australia	22	21	1	Rotorua	1987	6/18/1987
+117	Australia	Ireland	19	18	1	Lansdowne Road	1991	10/20/1991
+173	Ireland	Wales	24	23	1	Johannesburg	1995	6/4/1995
+293	Fiji	USA	19	18	1	Brisbane	2003	10/15/2003
+331	Ireland	Argentina	16	15	1	Adelaide	2003	10/26/2003
+349	Australia	Ireland	17	16	1	Melbourne	2003	11/1/2003
+481	South Africa	Wales	17	16	1	Wellington	2011	9/11/2011
+521	Argentina	Scotland	13	12	1	Wellington	2011	9/25/2011
+555	France	Wales	9	8	1	Auckland	2011	10/15/2011
+561	New Zealand	France	8	7	1	Auckland	2011	10/23/2011
+625	Georgia	Namibia	17	16	1	Exeter	2015	10/7/2015
+649	Australia	Scotland	35	34	1	Twickenham	2015	10/18/2015
+103	Romania	Fiji	17	15	2	Brive la Gaillarde	1991	10/12/1991
+225	Romania	USA	27	25	2	Lansdowne Road	1999	10/9/1999
+345	Scotland	Fiji	22	20	2	Sydney	2003	11/1/2003
+443	Scotland	Italy	18	16	2	Saint-Etienne	2007	9/29/2007
+451	England	Australia	12	10	2	Marseille	2007	10/6/2007
+453	France	New Zealand	20	18	2	Millennium Stadium	2007	10/6/2007
+551	Australia	South Africa	11	9	2	Wellington	2011	10/9/2011
+569	Japan	South Africa	34	32	2	Brighton	2015	9/19/2015
+619	Romania	Canada	17	15	2	Leicester	2015	10/6/2015
+651	New Zealand	South Africa	20	18	2	Twickenham	2015	10/24/2015
+13	United States of America	Japan	21	18	3	Brisbane	1987	5/24/1987
+31	Italy	Fiji	18	15	3	Dunedin	1987	5/31/1987
+77	Samoa	Wales	16	13	3	Cardiff	1991	10/6/1991
+121	England	Scotland	9	6	3	Murrayfield	1991	10/26/1991
+165	France	Scotland	22	19	3	Pretoria	1995	6/3/1995
+181	England	Australia	25	22	3	Cape Town	1995	6/11/1995
+191	South Africa	New Zealand	15	12	3	Johannesburg	1995	6/24/1995
+233	Tonga	Italy	28	25	3	Leicester	1999	10/10/1999
+369	England	Australia	20	17	3	Sydney	2003	11/22/2003
+559	Australia	Wales	21	18	3	Auckland	2011	10/21/2011
+593	Wales	England	28	25	3	Twickenham	2015	9/26/2015
+629	Scotland	Samoa	36	33	3	Newcastle	2015	10/10/2015
+185	South Africa	France	19	15	4	Durban	1995	6/17/1995
+257	Argentina	Ireland	28	24	4	Lens	1999	10/20/1999
+271	South Africa	New Zealand	22	18	4	Millennium Stadium	1999	11/4/1999
+391	Fiji	Japan	35	31	4	Toulouse	2007	9/12/2007
+401	Ireland	Georgia	14	10	4	Bordeaux	2007	9/15/2007
+405	Tonga	Samoa	19	15	4	Montpellier	2007	9/16/2007
+429	Romania	Portugal	14	10	4	Toulouse	2007	9/25/2007
+433	Samoa	USA	25	21	4	Saint-Etienne	2007	9/26/2007
+441	Fiji	Wales	38	34	4	Nantes	2007	9/29/2007
+475	England	Argentina	13	9	4	Dunedin	2011	9/10/2011
+537	England	Scotland	16	12	4	Auckland	2011	10/1/2011
+643	South Africa	Wales	23	19	4	Twickenham	2015	10/17/2015
+195	Wales	Argentina	23	18	5	Millennium Stadium	1999	10/1/1999
+315	Italy	Canada	19	14	5	Canberra	2003	10/21/2003
+371	Argentina	France	17	12	5	Stade de France	2007	9/7/2007
+417	South Africa	Tonga	30	25	5	Lens	2007	9/22/2007
+459	England	France	14	9	5	Stade de France	2007	10/13/2007
+485	Canada	Tonga	25	20	5	Whangarei	2011	9/14/2011
+535	Tonga	France	19	14	5	Wellington	2011	10/1/2011
+589	Italy	Canada	23	18	5	Leeds	2015	9/26/2015
+57	France	Australia	30	24	6	Sydney	1987	6/13/1987
+65	New Zealand	England	18	12	6	Twickenham	1991	10/3/1991
+87	Australia	Samoa	9	3	6	Pontypool	1991	10/9/1991
+109	France	Canada	19	13	6	Agen	1991	10/13/1991
+127	Australia	England	12	6	6	Twickenham	1991	11/2/1991
+141	England	Argentina	24	18	6	Durban	1995	5/27/1995
+145	Samoa	Argentina	32	26	6	East London	1995	5/30/1995
+169	Italy	Argentina	31	25	6	East London	1995	6/4/1995
+267	Australia	South Africa	27	21	6	Twickenham	1999	10/30/1999
+393	Italy	Romania	24	18	6	Marseille	2007	9/12/2007
+457	Argentina	Scotland	19	13	6	Stade de France	2007	10/7/2007
+15	Wales	Ireland	13	6	7	Wellington	1987	5/25/1987
+125	New Zealand	Scotland	13	6	7	Cardiff	1991	10/30/1991
+157	England	Italy	27	20	7	Durban	1995	5/31/1995
+237	Samoa	Wales	38	31	7	Millennium Stadium	1999	10/14/1999
+307	Wales	Tonga	27	20	7	Canberra	2003	10/19/2003
+489	United States of America	Russia	13	6	7	New Plymouth	2011	9/15/2011
+499	Wales	Samoa	17	10	7	Hamilton	2011	9/18/2011
+549	France	England	19	12	7	Auckland	2011	10/8/2011
+565	Georgia	Tonga	17	10	7	Gloucester	2015	9/19/2015
+617	Ireland	Italy	16	9	7	London	2015	10/4/2015
+93	Canada	Romania	19	11	8	Toulouse	1991	10/9/1991
+531	South Africa	Samoa	13	5	8	North Shore City	2011	9/30/2011
+19	Argentina	Italy	25	16	9	Christchurch	1987	5/28/1987
+95	Wales	Argentina	16	7	9	Cardiff	1991	10/9/1991
+99	Scotland	Ireland	24	15	9	Murrayfield	1991	10/12/1991
+115	England	France	19	10	9	Parc des Princes	1991	10/19/1991
+129	South Africa	Australia	27	18	9	Cape Town	1995	5/25/1995
+247	France	Fiji	28	19	9	Toulouse	1999	10/16/1999
+465	South Africa	England	15	6	9	Stade de France	2007	10/20/2007
+487	Scotland	Georgia	15	6	9	Invercargill	2011	9/14/2011
+497	Ireland	Australia	15	6	9	Auckland	2011	9/17/2011
+573	Samoa	USA	25	16	9	Brighton	2015	9/20/2015
+631	Australia	Wales	15	6	9	Twickenham	2015	10/10/2015
+75	Canada	Fiji	13	3	10	Bayonne	1991	10/5/1991
+107	New Zealand	Italy	31	21	10	Leicester	1991	10/13/1991
+123	Australia	New Zealand	16	6	10	Lansdowne Road	1991	10/27/1991
+189	France	England	19	9	10	Pretoria	1995	6/22/1995
+389	Tonga	USA	25	15	10	Montpellier	2007	9/12/2007
+469	Scotland	Romania	34	24	10	Invercargill	2011	9/10/2011
+577	New Zealand	Argentina	26	16	10	Wembley	2015	9/20/2015
+603	Wales	Fiji	23	13	10	Millennium Stadium	2015	10/1/2015
+637	Italy	Romania	32	22	10	Exeter	2015	10/11/2015
+641	Japan	USA	28	18	10	Gloucester	2015	10/11/2015
+361	England	Wales	28	17	11	Brisbane	2003	11/9/2003
+655	South Africa	Argentina	24	13	11	London	2015	10/30/2015
+201	Uruguay	Spain	27	15	12	Galashiels	1999	10/2/1999
+265	New Zealand	Scotland	30	18	12	Murrayfield	1999	10/24/1999
+269	France	New Zealand	43	31	12	Twickenham	1999	10/31/1999
+327	Wales	Italy	27	15	12	Canberra	2003	10/25/2003
+337	Uruguay	Georgia	24	12	12	Sydney	2003	10/28/2003
+363	Australia	New Zealand	22	10	12	Sydney	2003	11/15/2003
+399	Australia	Wales	32	20	12	Millennium Stadium	2007	9/15/2007
+479	Ireland	USA	22	10	12	New Plymouth	2011	9/11/2011
+547	Wales	Ireland	22	10	12	Wellington	2011	10/8/2011
+7	Australia	England	19	6	13	Sydney	1987	5/23/1987
+23	Wales	Tonga	29	16	13	Palmerston North	1987	5/29/1987
+55	Wales	England	16	3	13	Brisbane	1987	6/8/1987
+67	Australia	Argentina	32	19	13	Llanelli	1991	10/4/1991
+147	South Africa	Romania	21	8	13	Cape Town	1995	5/30/1995
+199	France	Canada	33	20	13	Beziers	1999	10/2/1999
+333	England	Samoa	35	22	13	Melbourne	2003	10/26/2003
+335	United States of America	Japan	39	26	13	Gosford	2003	10/27/2003
+403	Fiji	Canada	29	16	13	Millennium Stadium	2007	9/16/2007
+507	Tonga	Japan	31	18	13	Whangarei	2011	9/21/2011
+223	New Zealand	England	30	16	14	Twickenham	1999	10/9/1999
+557	New Zealand	Australia	20	6	14	Auckland	2011	10/16/2011
+601	Tonga	Namibia	35	21	14	Exeter	2015	9/29/2015
+653	Australia	Argentina	29	15	14	Twickenham	2015	10/25/2015
+51	France	Fiji	31	16	15	Auckland	1987	6/7/1987
+255	Scotland	Samoa	35	20	15	Murrayfield	1999	10/20/1999
+259	Australia	Wales	24	9	15	Millennium Stadium	1999	10/23/1999
+385	Ireland	Namibia	32	17	15	Bordeaux	2007	9/9/2007
+447	Argentina	Ireland	30	15	15	Parc des Princes	2007	9/30/2007
+581	Australia	Fiji	28	13	15	Millennium Stadium	2015	9/23/2015
+639	Ireland	France	24	9	15	Millennium Stadium	2015	10/11/2015
+89	Ireland	Japan	32	16	16	Lansdowne Road	1991	10/9/1991
+119	New Zealand	Canada	29	13	16	Lille	1991	10/20/1991
+153	Australia	Canada	27	11	16	Port Elizabeth	1995	5/31/1995
+187	New Zealand	England	45	29	16	Cape Town	1995	6/18/1995
+219	Fiji	Canada	38	22	16	Bordeaux	1999	10/9/1999
+227	Argentina	Samoa	32	16	16	Llanelli	1999	10/10/1999
+275	Australia	Argentina	24	8	16	Sydney	2003	10/10/2003
+353	New Zealand	Wales	53	37	16	Sydney	2003	11/2/2003
+435	England	Tonga	36	20	16	Parc des Princes	2007	9/28/2007
+529	Georgia	Romania	25	9	16	Palmerston North	2011	9/28/2011
+211	South Africa	Scotland	46	29	17	Murrayfield	1999	10/3/1999
+339	Canada	Tonga	24	7	17	Wollongong	2003	10/29/2003
+357	Australia	Scotland	33	16	17	Brisbane	2003	11/8/2003
+365	England	France	24	7	17	Sydney	2003	11/16/2003
+455	South Africa	Fiji	37	20	17	Marseille	2007	10/7/2007
+527	Italy	USA	27	10	17	Nelson	2011	9/27/2011
+657	New Zealand	Australia	34	17	17	Twickenham	2015	10/31/2015
+53	Australia	Ireland	33	15	18	Sydney	1987	6/7/1987
+161	Tonga	Cote d'Iv	29	11	18	Rustenberg	1995	6/3/1995
+183	New Zealand	Scotland	48	30	18	Pretoria	1995	6/11/1995
+377	England	USA	28	10	18	Lens	2007	9/8/2007
+539	Argentina	Georgia	25	7	18	Palmerston North	2011	10/2/2011
+611	South Africa	Scotland	34	16	18	Newcastle	2015	10/3/2015
+11	Fiji	Argentina	28	9	19	Hamilton	1987	5/24/1987
+47	Australia	Japan	42	23	19	Sydney	1987	6/3/1987
+305	England	South Africa	25	6	19	Perth	2003	10/18/2003
+63	New Zealand	France	29	9	20	Auckland	1987	6/20/1987
+167	South Africa	Canada	20	0	20	Port Elizabeth	1995	6/3/1995
+229	Australia	Ireland	23	3	20	Lansdowne Road	1999	10/10/1999
+355	New Zealand	South Africa	29	9	20	Melbourne	2003	11/8/2003
+515	New Zealand	France	37	17	20	Auckland	2011	9/24/2011
+517	Samoa	Fiji	27	7	20	Auckland	2011	9/25/2011
+613	Australia	England	33	13	20	Twickenham	2015	10/3/2015
+71	Italy	USA	30	9	21	Otley	1991	10/5/1991
+251	Argentina	Japan	33	12	21	Millennium Stadium	1999	10/16/1999
+253	England	Fiji	45	24	21	Twickenham	1999	10/20/1999
+263	France	Argentina	47	26	21	Lansdowne Road	1999	10/24/1999
+287	Scotland	Japan	32	11	21	Townsville	2003	10/12/2003
+609	Japan	Samoa	26	5	21	Milton Keynes	2015	10/3/2015
+113	Scotland	Samoa	28	6	22	Murrayfield	1991	10/19/1991
+155	Ireland	Japan	50	28	22	Bloemfontein	1995	5/31/1995
+175	England	Samoa	44	22	22	Durban	1995	6/4/1995
+303	France	Japan	51	29	22	Townsville	2003	10/18/2003
+359	France	Ireland	43	21	22	Melbourne	2003	11/9/2003
+415	France	Ireland	25	3	22	Stade de France	2007	9/21/2007
+419	England	Samoa	44	22	22	Nantes	2007	9/22/2007
+571	France	Italy	32	10	22	Twickenham	2015	9/19/2015
+45	Ireland	Tonga	32	9	23	Brisbane	1987	6/3/1987
+105	Samoa	Argentina	35	12	23	Pontypridd	1991	10/13/1991
+261	South Africa	England	44	21	23	Stade de France	1999	10/24/1999
+273	Australia	France	35	12	23	Millennium Stadium	1999	11/6/1999
+553	New Zealand	Argentina	33	10	23	Auckland	2011	10/9/2011
+597	Scotland	USA	39	16	23	Leeds	2015	9/27/2015
+605	France	Canada	41	18	23	Milton Keynes	2015	10/1/2015
+647	Argentina	Ireland	43	20	23	Millennium Stadium	2015	10/18/2015
+85	France	Fiji	33	9	24	Grenoble	1991	10/8/1991
+137	Samoa	Italy	42	18	24	East London	1995	5/27/1995
+143	New Zealand	Ireland	43	19	24	Johannesburg	1995	5/27/1995
+177	France	Ireland	36	12	24	Durban	1995	6/10/1995
+295	Italy	Tonga	36	12	24	Canberra	2003	10/15/2003
+313	Scotland	USA	39	15	24	Brisbane	2003	10/20/2003
+461	South Africa	Argentina	37	13	24	Stade de France	2007	10/14/2007
+463	Argentina	France	34	10	24	Parc des Princes	2007	10/19/2007
+471	Fiji	Namibia	49	25	24	Rotorua	2011	9/10/2011
+563	England	Fiji	35	11	24	Twickenham	2015	9/18/2015
+159	New Zealand	Wales	34	9	25	Johannesburg	1995	5/31/1995
+379	Wales	Canada	42	17	25	Nantes	2007	9/9/2007
+411	Italy	Portugal	31	5	26	Parc des Princes	2007	9/19/2007
+473	France	Japan	47	21	26	North Shore City	2011	9/10/2011
+477	Australia	Italy	32	6	26	North Shore City	2011	9/11/2011
+25	Ireland	Canada	46	19	27	Dunedin	1987	5/30/1987
+37	Scotland	Romania	55	28	27	Dunedin	1987	6/2/1987
+49	New Zealand	Scotland	30	3	27	Christchurch	1987	6/6/1987
+69	France	Romania	30	3	27	Beziers	1991	10/4/1991
+323	South Africa	Georgia	46	19	27	Sydney	2003	10/24/2003
+343	France	USA	41	14	27	Wollongong	2003	10/31/2003
+367	New Zealand	France	40	13	27	Sydney	2003	11/20/2003
+503	France	Canada	46	19	27	Napier	2011	9/18/2011
+583	France	Romania	38	11	27	London	2015	9/23/2015
+43	England	USA	34	6	28	Sydney	1987	6/3/1987
+97	England	USA	37	9	28	Twickenham	1991	10/11/1991
+133	France	Tonga	38	10	28	Pretoria	1995	5/26/1995
+179	South Africa	Samoa	42	14	28	Johannesburg	1995	6/10/1995
+279	Ireland	Romania	45	17	28	Gosford	2003	10/11/2003
+319	Fiji	Japan	41	13	28	Townsville	2003	10/23/2003
+615	Argentina	Tonga	45	16	29	Leicester	2015	10/4/2015
+83	England	Italy	36	6	30	Twickenham	1991	10/8/1991
+341	Romania	Namibia	37	7	30	Launceston	2003	10/30/2003
+387	Argentina	Georgia	33	3	30	Lyon	2007	9/11/2007
+431	Georgia	Namibia	30	0	30	Lens	2007	9/26/2007
+545	Ireland	Italy	36	6	30	Dunedin	2011	10/2/2011
+193	Ireland	Romania	44	14	30	Lansdowne Road	1999	10/15/1999
+35	New Zealand	Argentina	46	15	31	Wellington	1987	6/1/1987
+41	Wales	Canada	40	9	31	Invercargill	1987	6/3/1987
+135	Canada	Romania	34	3	31	Port Elizabeth	1995	5/26/1995
+215	Scotland	Uruguay	43	12	31	Murrayfield	1999	10/8/1999
+285	Wales	Canada	41	10	31	Melbourne	2003	10/12/2003
+439	Australia	Canada	37	6	31	Bordeaux	2007	9/29/2007
+467	New Zealand	Tonga	41	10	31	Auckland	2011	9/9/2011
+501	England	Georgia	41	10	31	Dunedin	2011	9/18/2011
+621	Fiji	Uruguay	47	15	32	Milton Keynes	2015	10/6/2015
+9	Canada	Tonga	37	4	33	Napier	1987	5/24/1987
+607	New Zealand	Georgia	43	10	33	Millennium Stadium	2015	10/2/2015
+207	Samoa	Japan	43	9	34	Wrexham	1999	10/3/1999
+217	France	Namibia	47	13	34	Bordeaux	1999	10/8/1999
+599	Ireland	Romania	44	10	34	Wembley	2015	9/27/2015
+33	Australia	USA	47	12	35	Brisbane	1987	5/31/1987
+101	Australia	Wales	38	3	35	Cardiff	1991	10/12/1991
+493	Argentina	Romania	43	8	35	Invercargill	2011	9/17/2011
+579	Scotland	Japan	45	10	35	Gloucester	2015	9/23/2015
+149	France	Cote d'Iv	54	18	36	Rustenberg	1995	5/30/1995
+151	Scotland	Tonga	41	5	36	Pretoria	1995	5/30/1995
+209	New Zealand	Tonga	45	9	36	Bristol	1999	10/3/1999
+239	Australia	USA	55	19	36	Limerick	1999	10/14/1999
+245	South Africa	Uruguay	39	3	36	Glasgow	1999	10/15/1999
+395	South Africa	England	36	0	36	Stade de France	2007	9/14/2007
+505	Italy	Russia	53	17	36	Nelson	2011	9/20/2011
+311	Samoa	Georgia	46	9	37	Perth	2003	10/19/2003
+483	Samoa	Namibia	49	12	37	Rotorua	2011	9/14/2011
+73	Scotland	Japan	47	9	38	Murrayfield	1991	10/5/1991
+627	New Zealand	Tonga	47	9	38	Newcastle	2015	10/9/2015
+27	Scotland	Zimbabwe	60	21	39	Wellington	1987	5/30/1987
+90	Scotland	Zimbabwe	51	12	39	Murrayfield	1991	10/9/1991
+163	Australia	Romania	42	3	39	Stellenbosch	1995	6/3/1995
+81	New Zealand	USA	46	6	40	Gloucester	1991	10/8/1991
+425	New Zealand	Scotland	40	0	40	Murrayfield	2007	9/23/2007
+591	South Africa	Samoa	46	6	40	Birmingham	2015	9/26/2015
+329	France	Scotland	51	9	42	Sydney	2003	10/25/2003
+409	Scotland	Romania	42	0	42	Murrayfield	2007	9/18/2007
+21	France	Romania	55	12	43	Wellington	1987	5/28/1987
+59	New Zealand	Wales	49	6	43	Brisbane	1987	6/14/1987
+281	France	Fiji	61	18	43	Brisbane	2003	10/11/2003
+423	Australia	Fiji	55	12	43	Montpellier	2007	9/23/2007
+567	Ireland	Canada	50	7	43	Millennium Stadium	2015	9/19/2015
+79	Ireland	Zimbabwe	55	11	44	Lansdowne Road	1991	10/6/1991
+111	Japan	Zimbabwe	52	8	44	Belfast	1991	10/14/1991
+231	South Africa	Spain	47	3	44	Murrayfield	1999	10/10/1999
+585	New Zealand	Namibia	58	14	44	London	2015	9/24/2015
+205	Ireland	USA	53	8	45	Lansdowne Road	1999	10/2/1999
+575	Wales	Uruguay	54	9	45	Millennium Stadium	2015	9/20/2015
+587	Argentina	Georgia	54	9	45	Gloucester	2015	9/25/2015
+635	Argentina	Namibia	64	19	45	Leicester	2015	10/11/2015
+383	Scotland	Portugal	56	10	46	Saint-Etienne	2007	9/9/2007
+495	South Africa	Fiji	49	3	46	Wellington	2011	9/17/2011
+533	Australia	Russia	68	22	46	Nelson	2011	10/1/2011
+139	Wales	Japan	57	10	47	Bloemfontein	1995	5/27/1995
+297	Samoa	Uruguay	60	13	47	Perth	2003	10/15/2003
+317	Argentina	Romania	50	3	47	Sydney	2003	10/22/2003
+213	Australia	Romania	57	9	48	Belfast	1999	10/3/1999
+249	Scotland	Spain	48	0	48	Murrayfield	1999	10/16/1999
+197	Fiji	Namibia	67	18	49	Beziers	1999	10/1/1999
+221	Wales	Japan	64	15	49	Millennium Stadium	1999	10/9/1999
+449	South Africa	USA	64	15	49	Montpellier	2007	9/30/2007
+645	New Zealand	France	62	13	49	Millennium Stadium	2015	10/17/2015
+347	South Africa	Samoa	60	10	50	Brisbane	2003	11/1/2003
+519	Ireland	Russia	62	12	50	Rotorua	2011	9/25/2011
+381	South Africa	Samoa	59	7	52	Parc des Princes	2007	9/9/2007
+29	England	Japan	60	7	53	Sydney	1987	5/30/1987
+291	Argentina	Namibia	67	14	53	Gosford	2003	10/14/2003
+413	Wales	Japan	72	18	54	Millennium Stadium	2007	9/20/2007
+309	Ireland	Namibia	64	7	57	Sydney	2003	10/19/2003
+445	France	Georgia	64	7	57	Marseille	2007	9/30/2007
+633	England	Uruguay	60	3	57	Manchester	2015	10/10/2015
+39	France	Zimbabwe	70	12	58	Auckland	1987	6/2/1987
+203	England	Italy	67	7	60	Twickenham	1999	10/2/1999
+421	Argentina	Namibia	63	3	60	Marseille	2007	9/22/2007
+17	New Zealand	Fiji	74	13	61	Christchurch	1987	5/27/1987
+241	Canada	Namibia	72	11	61	Toulouse	1999	10/14/1999
+299	New Zealand	Canada	68	6	62	Melbourne	2003	10/17/2003
+373	New Zealand	Italy	76	14	62	Marseille	2007	9/8/2007
+511	Australia	USA	67	5	62	Wellington	2011	9/23/2011
+595	Australia	Uruguay	65	3	62	Birmingham	2015	9/27/2015
+277	New Zealand	Italy	70	7	63	Melbourne	2003	10/11/2003
+1	New Zealand	Italy	70	6	64	Auckland	1987	5/22/1987
+513	England	Romania	67	3	64	Dunedin	2011	9/24/2011
+541	New Zealand	Canada	79	15	64	Wellington	2011	10/2/2011
+623	South Africa	USA	64	0	64	London	2015	10/7/2015
+283	South Africa	Uruguay	72	6	66	Perth	2003	10/11/2003
+543	Wales	Fiji	66	0	66	Hamilton	2011	10/2/2011
+523	Wales	Namibia	81	7	74	New Plymouth	2011	9/26/2011
+491	New Zealand	Japan	83	7	76	Hamilton	2011	9/16/2011
+407	France	Namibia	87	10	77	Toulouse	2007	9/16/2007
+437	New Zealand	Romania	85	8	77	Toulouse	2007	9/29/2007
+289	England	Georgia	84	6	78	Perth	2003	10/12/2003
+301	Australia	Romania	90	8	82	Brisbane	2003	10/18/2003
+321	New Zealand	Tonga	91	7	84	Brisbane	2003	10/24/2003
+509	South Africa	Namibia	87	0	87	North Shore City	2011	9/22/2011
+375	Australia	Japan	91	3	88	Lyon	2007	9/8/2007
+131	Scotland	Cote d'Iv	89	0	89	Rustenberg	1995	5/26/1995
+243	England	Tonga	101	10	91	Twickenham	1999	10/15/1999
+397	New Zealand	Portugal	108	13	95	Lyon	2007	9/15/2007
+235	New Zealand	Italy	101	3	98	Huddersfield	1999	10/14/1999
+351	England	Uruguay	111	13	98	Brisbane	2003	11/2/2003
+171	New Zealand	Japan	145	17	128	Bloemfontein	1995	6/4/1995
+325	Australia	Namibia	142	0	142	Adelaide	2003	10/25/2003
