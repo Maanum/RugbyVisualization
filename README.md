@@ -28,28 +28,28 @@ teams in competition, and there are arguments to keep the WC small because of th
 The feedback I received covered two main concerns:
 
   1. **Timeline speed and behaviour**:  In the initial draft, the timeline started 
-	   automatically and the viewer usually wasn't preparted for it.  Additionally
-		 the events went by too fast so the reader could not see this.
+      automatically and the viewer usually wasn't preparted for it.  Additionally
+      the events went by too fast so the reader could not see this.
 		 
-		 To address this, I added a "start" button to the timeline and slowed it down
-		 in general.  Additionally, I made the World Cup events stay up longer to 
-		 account for the additional information that was shown in these.  Finally
-		 I gave some functionality to allow the user to go back to see earlier events.
+      To address this, I added a "start" button to the timeline and slowed it down
+      in general.  Additionally, I made the World Cup events stay up longer to 
+      account for the additional information that was shown in these.  Finally
+      I gave some functionality to allow the user to go back to see earlier events.
 		 
-	2. **No directions on use**:  Some users did not realize that there were
-		interactive elements to the viz.  To address this, I added some explicit 
-		wording on how to use the chart as well as some "mouseover" events to 
-		highlight interactive elements.
+   2. **No directions on use**:  Some users did not realize that there were
+      interactive elements to the viz.  To address this, I added some explicit 
+      wording on how to use the chart as well as some "mouseover" events to 
+      highlight interactive elements.
 		 
 
 ##Feedback
 Viewer #1:  Points noted as viewer watched and commented on visualization:
-							1. Modify timeline notes to include dates
-							2. Add explanation/conclusion of charts
-							3. Change map colors for readability (esp. light and medium blue)
+                  1. Modify timeline notes to include dates
+                  2. Add explanation/conclusion of charts
+                  3. Change map colors for readability (esp. light and medium blue)
 
 Viewer #2:	"Right off the bat, I felt it was moving too fast.  I had to start the
-						slideshow over as I didnt know it was going to begin moving through 
+            slideshow over as I didnt know it was going to begin moving through 
 						different texts.  Maybe a flashing notification that 'slideshow begins 
 						now' would help, or a button to allow viewer to 'begin slideshow'?  
 						Even after I knew what to expect, I thought it moved very quickly, 
