@@ -58,9 +58,7 @@ Viewer #2:  "Right off the bat, I felt it was moving too fast.  I had to start t
             At this point I had to restart it again.  Is it possible the viewer 
             could have control over the slideshow and have 'next' buttons?  or at 
             least control the speed or both.
-            
-            As for the graphs, they are a good representation of the data I believe.  
-            
+            As for the graphs, they are a good representation of the data I believe.
             In the beginning where you are chronologically moving through the years, 
             with each year it would be nice if you could add a picture or some 
             graphic to accompany it?  Capitalization of 'Rugby Union' - should it 
@@ -73,7 +71,6 @@ Viewer #2:  "Right off the bat, I felt it was moving too fast.  I had to start t
 Viewer #3:  "I will exactly agree with Viewer #2's point about the speed, you 
             should explain that people can click on the time bar points to
             manually control. Even then, you should slow the auto movement down. 
-            
             As a sales person I would recommend starting with an easier to read 
             entrance(perhaps it was just the quick start that made me miss the 
             point) with more info that tells me why The Story of Rugby is 
@@ -84,7 +81,6 @@ Viewer #3:  "I will exactly agree with Viewer #2's point about the speed, you
             predictive when it comes to analytics)? Thore's suggestion on 
             graphics is good too. In general, I just needed a better way to 
             connect with the presentation.
-            
             The last note is that I didnt know that there was additional 
             information below the time bar area at the end that was showing 
             additional data. Not sure if that was my screen resolution, but I 
