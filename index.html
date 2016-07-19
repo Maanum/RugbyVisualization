@@ -100,7 +100,8 @@
 			function draw(nation_data) {
 				"use strict";
 				
-				
+				// Shows tooltip with the indicated text.
+				// Used for all tooltips
 				function showTooltip(tText) {
 					div.transition().duration(200)      
 						.style('opacity', 1);      
@@ -109,6 +110,13 @@
 							.style('top', (d3.event.pageY - 28) + 'px');
 				}
 				
+				/*
+				 *  Create the timeline buttons including:
+				 * 		1. Scroll left
+				 *		2. Scroll right
+				 *		3. Start timeline
+				 *    4. Tooltips for buttons
+				 */	
 				function createButtons () {
 					
 					// Create tooltip canvas */
@@ -116,6 +124,7 @@
 							.attr('class', 'button_tooltip')               
 							.style('opacity', 0);
 
+					// Create start button using 'circle' and 'polygon' elements
 					var svgTimelineStart = d3.select('#timeline')
 						.append('svg')
 							.attr('width', width + margin)
@@ -226,6 +235,7 @@
 						.append('circle')
 						.attr('class', 'gameCircle');
 
+					// Create data for average difference points and line
 					var avgDiff = d3.nest()
 						.key(function(d) {
 							return d['Date'].getUTCFullYear(); 
@@ -238,6 +248,8 @@
 						})
 						.entries(games_data);
 						
+					yearsAvg = avgDiff.map(function(d) {return d.values.date})	
+						
 					svgDiffChart.selectAll('.avgCircle')
 						.data(avgDiff)
 						.enter()
@@ -249,18 +261,17 @@
 						return d['Diff'];
 						})
 					
-					// Create x-axis scale mapping dates -> pixels
+					// Create x-axis scale
 					var x = d3.time.scale()
 						.range([margin, width])
 						.domain(diffChartTimeExtent);
 
-					// Create y-axis scale mapping differential -> pixels
+					// Create y-axis scale
 				 	var y = d3.scale.linear()
 						.range([heightDiffChart, margin])
 						.domain(count_extent);
 
-					yearsAvg = avgDiff.map(function(d) {return d.values.date})
-					
+						
 					var time_axis = d3.svg.axis()
 						.scale(x)
 						.tickSize(1)
@@ -281,6 +292,7 @@
 						.attr('transform', 'translate(0,' +  heightDiffChart + ')')
 						.call(time_axis);
 
+					// Add average line
 					var valueline = d3.svg.line()
 						.x(function(d) { return x(d.values.date); })
 						.y(function(d) { return y(d.values.diff); });						
@@ -314,12 +326,11 @@
 						.attr('r', 5)
 						.attr('fill', C_DIFFCHART_AVG)
 						.attr('opacity', 0);
-						//.attr('stroke', 'black');
 
 				}
 
 				/*
-				 *  Create the Map
+				 *  Create the map
 				 *  Map is created then hidden; to be revealed only when
 				 *  World Cup data comes up in timeline
 				 */
@@ -356,6 +367,7 @@
 						.data(['Champion', 'World Cup Final', 'Qualifying Round'])
 						.enter().append('g');
 						
+					// Add legend
 					legend.append('rect')
 						.attr('y', function(d, i) {
 							return i * 20;
@@ -393,6 +405,9 @@
 				 */
 				function update_map(year) {
 					
+					// Check whether a specific year or "all-time" is needed.
+					// Populate year_perf with appropriate result for countries
+					
 					var year_perf = {};
 
 					if (year != null) {
@@ -409,6 +424,7 @@
 						year_perf[d.Team] = d[col_val];
 					});
 					
+					// Highlight countries based on performance
 					function fill_country(d) {
 
 						if(year_perf[d.properties.name] == 'DNQ') {
@@ -491,19 +507,25 @@
 
 					/* 
 					 *  Use setInterval to run through all events.
-					 *  At first instance of World Cup event, show map and diff chart 
+					 *  For World Cup events, slow down and show map / diff chart 
 					 */ 
 					
 					var idx = 0;
 					
+					// Populate the first circle manually
 					advanceTimeline(data[idx]['date'], 500);
 					idx++;
 
+					// Start cycling through events
 					var year_interval = setInterval(function() {
 
+						//Update timeline based on even
 						advanceTimeline(data[idx]['date'], 500);
-						idx++;
 						
+						// Move to next event and check whether it is a World Cup
+						// If so, set up a new setInterval with slower times and
+						//   populate remaining chart sections
+						idx++;
 						if (data[idx]['wc'] == 1) {
 
 							clearInterval(year_interval);
@@ -522,7 +544,9 @@
 										d3.selectAll('.eventCircle')
 											.attr('fill', C_TIMELINE_INACTIVE)
 											.attr('opacity', 1);
-											
+
+										// This function will update the timeline and supporting
+										//   captions/controls to show only World Cup events
 										function timelineWorldCupScale() {
 											
 											d3.selectAll('#timeline .chart_title')
@@ -568,7 +592,9 @@
 														return radius(d['wc_tv_audience']);
 													});
 										}
-									
+
+										// This function will update the timeline and supporting
+										//   captions/controls to show all events
 										function timelineAllTimeScale() {
 											
 											d3.selectAll('#timeline .chart_title')
@@ -621,18 +647,18 @@
 												.transition().duration(500)
 												.attr('opacity', 1);
 
-										timelineWorldCupScale();
-										
+										// Focus timeline on World Cup only, and
 										// Update map to show best performance
+										timelineWorldCupScale();
 										update_map();
 										
 										/*
-										 * Setup event circle behaviour
+										 * Setup interactivity behaviour
 										 */
 										var circles = d3.selectAll('.eventCircle')
 										var buttons = d3.selectAll('.button')
-										
-										
+
+										// Game differential chart tooltips on hover
 										d3.selectAll('.gameCircle')
 											.on('mouseover', function(d) {
 												var thisSelect = d3.select(this)
@@ -645,7 +671,7 @@
 												div.transition().duration(500).style('opacity', 0); 
 											});
 										
-										// On mouse hover, increase outline to show interactivability
+										// Timeline buttons, hover for outline, click for re-scale
 										buttons
 											.on('mouseover', function(d) {
 											var thisSelect = d3.select(this)
@@ -676,7 +702,8 @@
 												}
 											});
 
-										// On mouse hover, increase outline to show interactivability
+										// Timeline circles, hover for outline, click to focus on a 
+										//  specific year
 										circles
 											.on('mouseover', function(d) {
 											d3.select(this)
@@ -793,7 +820,7 @@
 						}
 					}, timelineSpeed);
 
-					/**
+					/*
 					 * Move to next event in timeline
 					 */
 					function advanceTimeline(newYear, circleTransition) {
@@ -834,7 +861,6 @@
 								});
 						}
 						
-						
 						// Update timeline notes with new event text
 						d3.select('#comment')
 							.text(data[idx]['notes'])
@@ -856,9 +882,7 @@
 							.attr('fill', C_TIMELINE_ACTIVE)
 							.attr('opacity', .75)
 							.attr('stroke', 'black');
-					/* 		.transition().duration(circleTransition)							
-							.attr('opacity', .75);
- */
+
 						// Check if event is a WC.  If so, update map/etc... accordingly
 						if(data[idx]['wc'] === 1) {
 							
@@ -937,9 +961,9 @@
 				d3.selectAll('#timeline .chart_summary').text(' ')	
 				d3.selectAll('#timeline .chart_title').text(' ')	
 				
-				// Set timeline event speed
-					var timelineSpeed = 5000;  	//4000
-					var timelineWCSpeed = 10000;	//10000  
+				// Set timeline event speeds
+					var timelineSpeed = 500;
+					var timelineWCSpeed = 500; 
 				
 				/** Visualization size controls */
 				/** @const */ var margin = 25,
@@ -992,8 +1016,10 @@
 				/** Load geoJSON and create map*/
 				d3.json('world_countries.json', create_map);
 
+				// Setup buttons and tooltips
 				createButtons();
 
+				// 'Start' button interactivity
 				var svgTimelineStart = d3.selectAll('#timeline .start');
 				var timelineActive = false;
 				
