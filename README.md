@@ -7,8 +7,8 @@ a few countries, mostly within the Commonwealth.  However, with the advent of th
 Rugby World Cup and the professional era, the game is enjoying quick gains in 
 global popularity.  This is shown in three charts:
   1. Increasing global TV audience for the World Cups
-	2. Increasing participation for the World Cups
-	3. Closer games in the World Cups as Tier 2 nations become as compentent as
+  2. Increasing participation for the World Cups
+  3. Closer games in the World Cups as Tier 2 nations become as compentent as
      Tier 1 teams.
 
 ##Design
@@ -36,7 +36,7 @@ The feedback I received covered two main concerns:
       account for the additional information that was shown in these.  Finally
       I gave some functionality to allow the user to go back to see earlier events.
 		 
-   2. **No directions on use**:  Some users did not realize that there were
+  2.  **No directions on use**:  Some users did not realize that there were
       interactive elements to the viz.  To address this, I added some explicit 
       wording on how to use the chart as well as some "mouseover" events to 
       highlight interactive elements.
@@ -48,54 +48,54 @@ Viewer #1:  Points noted as viewer watched and commented on visualization:
                   2. Add explanation/conclusion of charts
                   3. Change map colors for readability (esp. light and medium blue)
 
-Viewer #2:	"Right off the bat, I felt it was moving too fast.  I had to start the
+Viewer #2:  "Right off the bat, I felt it was moving too fast.  I had to start the
             slideshow over as I didnt know it was going to begin moving through 
-						different texts.  Maybe a flashing notification that 'slideshow begins 
-						now' would help, or a button to allow viewer to 'begin slideshow'?  
-						Even after I knew what to expect, I thought it moved very quickly, 
-						especially when you introduced graphics to where my eye wanted to drift 
-						down to the graphics, but then I knew I would miss out on the text.  
-						At this point I had to restart it again.  Is it possible the viewer 
-						could have control over the slideshow and have 'next' buttons?  or at 
-						least control the speed or both.
+            different texts.  Maybe a flashing notification that 'slideshow begins 
+            now' would help, or a button to allow viewer to 'begin slideshow'?  
+            Even after I knew what to expect, I thought it moved very quickly, 
+            especially when you introduced graphics to where my eye wanted to drift 
+            down to the graphics, but then I knew I would miss out on the text.  
+            At this point I had to restart it again.  Is it possible the viewer 
+            could have control over the slideshow and have 'next' buttons?  or at 
+            least control the speed or both.
 
-						As for the graphs, they are a good representation of the data I believe.  
+            As for the graphs, they are a good representation of the data I believe.  
 
-						In the beginning where you are chronologically moving through the years, 
-						with each year it would be nice if you could add a picture or some 
-						graphic to accompany it?  Capitalization of 'Rugby Union' - should it 
-						always be capitalized or not? whatever the case, make sure you're 
-						consistent throughout.  I found myself asking what is 'Rugby Union' 
-						versus regular Rugby?  Are they the same thing?  I saw the little part
-						about the schism but still was wanting a little more clarification 
-						after the fact".
+            In the beginning where you are chronologically moving through the years, 
+            with each year it would be nice if you could add a picture or some 
+            graphic to accompany it?  Capitalization of 'Rugby Union' - should it 
+            always be capitalized or not? whatever the case, make sure you're 
+            consistent throughout.  I found myself asking what is 'Rugby Union' 
+            versus regular Rugby?  Are they the same thing?  I saw the little part
+            about the schism but still was wanting a little more clarification 
+            after the fact".
 
-Viewer #3:	"I will exactly agree with Viewer #2's point about the speed, you 
-						should explain that people can click on the time bar points to
-						manually control. Even then, you should slow the auto movement down. 
+Viewer #3:  "I will exactly agree with Viewer #2's point about the speed, you 
+            should explain that people can click on the time bar points to
+            manually control. Even then, you should slow the auto movement down. 
 
-						As a sales person I would recommend starting with an easier to read 
-						entrance(perhaps it was just the quick start that made me miss the 
-						point) with more info that tells me why The Story of Rugby is 
-						important or maybe why the way you are presenting it is unique and 
-						worth watching.  The data is great, but a person watching should 
-						know why this data is great and interesting. More specifically, what
-						does this tell me about the future of Rugby (I am always thinking of
-						predictive when it comes to analytics)? Thore's suggestion on 
-						graphics is good too. In general, I just needed a better way to 
-						connect with the presentation.
+            As a sales person I would recommend starting with an easier to read 
+            entrance(perhaps it was just the quick start that made me miss the 
+            point) with more info that tells me why The Story of Rugby is 
+            important or maybe why the way you are presenting it is unique and 
+            worth watching.  The data is great, but a person watching should 
+            know why this data is great and interesting. More specifically, what
+            does this tell me about the future of Rugby (I am always thinking of
+            predictive when it comes to analytics)? Thore's suggestion on 
+            graphics is good too. In general, I just needed a better way to 
+            connect with the presentation.
 
-						The last note is that I didnt know that there was additional 
-						information below the time bar area at the end that was showing 
-						additional data. Not sure if that was my screen resolution, but I 
-						nearly didnt even know there was a line chart there on the bottom as 
-						well."
+            The last note is that I didnt know that there was additional 
+            information below the time bar area at the end that was showing 
+            additional data. Not sure if that was my screen resolution, but I 
+            nearly didnt even know there was a line chart there on the bottom as 
+            well."
 
 Viewer #4: "I guess there's not much left for me to provide....  I would 
-						definitely agree with Viewers 2 and 3.  It's a bit fast and I feel 
-						like need to pause or have some sort of control.  There needs to be 
-						some preparatory intro page (or at least more so than the current),
-						which could be helped with some visuals."
+            definitely agree with Viewers 2 and 3.  It's a bit fast and I feel 
+            like need to pause or have some sort of control.  There needs to be 
+            some preparatory intro page (or at least more so than the current),
+            which could be helped with some visuals."
 
 ##Resources 
 
