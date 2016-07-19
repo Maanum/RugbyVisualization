@@ -43,12 +43,12 @@ The feedback I received covered two main concerns:
 		 
 
 ##Feedback
-Viewer #1:  Points noted as viewer watched and commented on visualization:
+**Viewer #1**:  Points noted as viewer watched and commented on visualization:
                   1. Modify timeline notes to include dates
                   2. Add explanation/conclusion of charts
                   3. Change map colors for readability (esp. light and medium blue)
 
-Viewer #2:  "Right off the bat, I felt it was moving too fast.  I had to start the
+**Viewer #2**:  "Right off the bat, I felt it was moving too fast.  I had to start the
             slideshow over as I didnt know it was going to begin moving through 
             different texts.  Maybe a flashing notification that 'slideshow begins 
             now' would help, or a button to allow viewer to 'begin slideshow'?  
@@ -68,7 +68,7 @@ Viewer #2:  "Right off the bat, I felt it was moving too fast.  I had to start t
             about the schism but still was wanting a little more clarification 
             after the fact".
 
-Viewer #3:  "I will exactly agree with Viewer #2's point about the speed, you 
+**Viewer #3**:  "I will exactly agree with Viewer #2's point about the speed, you 
             should explain that people can click on the time bar points to
             manually control. Even then, you should slow the auto movement down. 
             As a sales person I would recommend starting with an easier to read 
@@ -87,7 +87,7 @@ Viewer #3:  "I will exactly agree with Viewer #2's point about the speed, you
             nearly didnt even know there was a line chart there on the bottom as 
             well."
 
-Viewer #4: "I guess there's not much left for me to provide....  I would 
+**Viewer #4**: "I guess there's not much left for me to provide....  I would 
             definitely agree with Viewers 2 and 3.  It's a bit fast and I feel 
             like need to pause or have some sort of control.  There needs to be 
             some preparatory intro page (or at least more so than the current),
