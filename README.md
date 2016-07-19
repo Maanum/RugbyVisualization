@@ -1,4 +1,4 @@
-# The largest heading
+#Global Expansion of Rugby Union
 
 ##Summary
 This visualization tells the story of how rugby has been around for a long time
@@ -117,5 +117,5 @@ Viewer #4: "I guess there's not much left for me to provide....  I would
 		**Stackoverflow**: Issue resolution (D3, general js, HTML, CSS)
 			http://stackoverflow.com/
 			
-		**Mike Bostock’s Blocks**: Reference for samples of specific D3 features
+		**Mike Bostockâ€™s Blocks**: Reference for samples of specific D3 features
 			https://bl.ocks.org/mbostock
