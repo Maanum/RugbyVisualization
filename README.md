@@ -1,6 +1,6 @@
-#Global Expansion of Rugby Union
+# Global Expansion of Rugby Union
 
-##Summary
+## Summary
 This visualization tells the story of how rugby has been around for a long time
 (since the early 1800's) and for most of its existence has been popular in mainly
 a few countries, mostly within the Commonwealth.  However, with the advent of the
@@ -11,7 +11,7 @@ global popularity.  This is shown in three charts:
   3. Closer games in the World Cups as Tier 2 nations become as compentent as
      Tier 1 teams.
 
-##Design
+## Design
 I wanted to be able to tell a full story not only of how rugby is increasing in 
 popularity very recently but also to put that into context of how rugby's 
 popularity was stagnant for many decades.  This would take a bit more than a 
@@ -42,7 +42,7 @@ The feedback I received covered two main concerns:
       highlight interactive elements.
 		 
 
-##Feedback
+## Feedback
 **Viewer #1**:  Points noted as viewer watched and commented on visualization:
                   1. Modify timeline notes to include dates
                   2. Add explanation/conclusion of charts
@@ -93,7 +93,7 @@ The feedback I received covered two main concerns:
             some preparatory intro page (or at least more so than the current),
             which could be helped with some visuals."
 
-##Resources 
+## Resources 
 
 		**Wikipedia**: General rugby information
 			www.wikipedia.com
